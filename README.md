@@ -2,17 +2,6 @@
 
 Simple native Windows installer for `Skate4Laucnher.exe`.
 
-## Before You Install
-
-1. Download the ZIP.
-2. **Extract the ZIP first.**
-3. Move the extracted `Skate4LauncherSetup.exe` somewhere safe, such as:
-   - `Documents\Skate4 Setup\`
-   - `Desktop\Skate4 Setup\`
-   - another folder you will not accidentally delete
-4. Do **not** run the installer directly from inside the ZIP.
-5. Run `Skate4LauncherSetup.exe`.
-
 ## Changes
 
 - Installs `Skate4Laucnher.exe` directly onto your Desktop.
@@ -29,11 +18,13 @@ Simple native Windows installer for `Skate4Laucnher.exe`.
 
 ## Install
 
-1. Extract the ZIP.
-2. Store the setup EXE somewhere safe.
-3. Open `Skate4LauncherSetup.exe`.
-4. Follow the installer.
-5. `Skate4Laucnher.exe` will be installed directly to your Desktop.
+1. Download the ZIP.
+2. **Extract the ZIP first.**
+3. Put the extracted `Skate4LauncherSetup.exe` somewhere safe where you will not accidentally delete it.
+4. Do not run the setup directly from inside the ZIP.
+5. Run `Skate4LauncherSetup.exe`.
+6. Follow the installer.
+7. `Skate4Laucnher.exe` will be placed directly on your Desktop.
 
 ## Platform
 
